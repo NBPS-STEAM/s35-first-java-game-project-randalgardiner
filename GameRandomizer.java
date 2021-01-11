@@ -29,6 +29,8 @@ public class GameRandomizer {
         else if(userNumber < computerNumber){
         System.out.println("The number you have guessed is too low!");
         }
+ 
+ // link to video: https://drive.google.com/file/d/1ZnWabO6M-_WKI2ohwYaRwN2mvqnb_4jT/view?usp=sharing
 
     }
     
